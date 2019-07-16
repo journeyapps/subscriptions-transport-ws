@@ -1,3 +1,13 @@
+# TEMPORARY REPO
+
+This is a temporary repo that should be **deleted** once the PR https://github.com/apollographql/subscriptions-transport-ws/pull/599 has been merged and released.
+
+This repo commits the `./dist` directory to git so that this repo can be consumed by a package.json directly without publishing to npm.
+
+Original readme follows below
+
+---
+
 [![npm version](https://badge.fury.io/js/subscriptions-transport-ws.svg)](https://badge.fury.io/js/subscriptions-transport-ws) [![GitHub license](https://img.shields.io/github/license/apollostack/subscriptions-transport-ws.svg)](https://github.com/apollostack/subscriptions-transport-ws/blob/license/LICENSE)
 
 # subscriptions-transport-ws
